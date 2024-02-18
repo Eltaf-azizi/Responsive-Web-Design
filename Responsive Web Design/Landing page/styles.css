@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+#header {
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+#header-img{
+    width: 300px;
+    float: left;
+}
+.div i{
+    color: darkorange;
+}
+.email{
+    text-align: center;
+}
+#email{
+    width: 25%;
+}
+#submit{
+    width: 8%;
+    height: 40px
+}
+#nav-bar {
+    position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  z-index: 1000;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.box-container{
+    display: flex;
+    text-align: center;
+
+}
+.box{
+    width:300px;
+    height: 350px;
+    margin-right: 10px;
+    border: 1px solid #000;
+    
+}
+button{
+    background: dark;
+    color: black;
+    height: 40px;
+    width: 80px;
+}
+.h4{
+    background: rgb(214,212,212);
+    padding: 5px 0;
+}
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+#section1,
+#section2,
+#section3 {
+    padding: 20px;
+}
+
+#video {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 20px auto;
+}
+
+#form {
+    text-align: center;
+    margin: 20px;
+}
+
+#email {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+    #nav-bar {
+        flex-direction: column;
+    }
+}
