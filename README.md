@@ -1,5 +1,5 @@
 <h1 align="center">Responsive Web Design</h1>
-<p>This repository is a collection of small, responsive web design projects showcasing various aspects of front-end development. Each project is standalone and demonstrates different techniques and concepts in HTML and CSS.</p>
+<p>This repository is a collection of small, responsive web design projects showcasing various aspects of front-end development. Each project is standalone and demonstrates different techniques and concepts in HTML and CSS. https://www.freecodecamp.org/learn/2022/responsive-web-design/</p>
 <h1>Projects Overview</h1>
 <h2>Project Categories</h2>
 
@@ -43,5 +43,7 @@
 - **Penguin**: A stylized representation of a penguin created with CSS.
 
 # Technology Used
-HTML
-CSS(including Flexbox, Grid, and CSS Animation)
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>HTML 
+<br>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> CSS(including Flexbox, Grid, and CSS Animation)
+# Certification
