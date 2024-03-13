@@ -41,3 +41,7 @@
 
 - **Ferris Wheel**: A creative coding project that brings a Ferris wheel to life with animations.
 - **Penguin**: A stylized representation of a penguin created with CSS.
+
+# Technology Used
+HTML
+CSS(including Flexbox, Grid, and CSS Animation)
