@@ -25,6 +25,7 @@
 - **Cat Painting**: A playful, CSS-only rendition of a whimsical cat.
 - **City Skyline**: A nighttime skyline scene with animated elements to bring the city to life.
 - **Magazine**: A digital magazine layout with a focus on typography and responsive design.
+
 ### Functional Webpages
 
 - **Cat Photo App**: A photo gallery featuring a collection of cat images, responsive and easy to navigate.
