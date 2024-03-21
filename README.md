@@ -32,6 +32,7 @@
 - **Tribute Page**: A page dedicated to an influential figure with a well-structured layout.
 - **Portfolio**: A professional portfolio showcasing web development projects.
 - **Landing Page**: An attractive landing page designed to convert visitors into users.
+- 
 ### Visual Collections
 
 - **Colored Markers Set**: A vibrant display of markers that adjusts to the user's screen.
