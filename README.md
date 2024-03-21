@@ -11,6 +11,7 @@
 - **Visual Collections:** Colored Markers Set, Photo Gallery
 - **Business & Data Presentation:** Balance Sheet, Technical Documentation Page
 - **Graphical and Creative Coding:** Ferris Wheel, Penguin
+
 <h3>Interactive Applications</h3>
 
 - **Registration Form**: A user-friendly form designed for mobile and desktop use with form validation.
