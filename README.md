@@ -37,6 +37,7 @@
 
 - **Colored Markers Set**: A vibrant display of markers that adjusts to the user's screen.
 - **Photo Gallery**: A responsive gallery to beautifully showcase photography.
+- 
 ### Business & Data Presentation
 
 - **Balance Sheet**: A clean presentation of financial balance sheet data.
