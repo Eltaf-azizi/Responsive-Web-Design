@@ -18,7 +18,7 @@
 - **Survey Form**: Collect valuable user feedback with this responsive and accessible survey.
 - **Quiz**: Test your knowledge with this interactive and dynamically scored quiz app.
 - **Nutrition Label**: A detailed and interactive label that provides nutritional information.
-- 
+
 ### Creative Designs
 
 - **Rothko Painting**: A web art tribute to Rothko's abstract painting style using CSS.
