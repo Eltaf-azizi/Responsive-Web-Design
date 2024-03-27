@@ -41,7 +41,7 @@
 - 
 ### Business & Data Presentation
 
-- **Balance Sheet**: A clean presentation of financial balance sheet data.
+- **Balance Sheet**: A clean financial balance sheet data presentation.
 - **Technical Documentation Page**: A detailed documentation webpage for a technical product or API.
 
 ### Graphical and Creative Coding
