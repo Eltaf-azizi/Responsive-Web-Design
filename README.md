@@ -16,7 +16,7 @@
 
 - **Registration Form**: A user-friendly form designed for mobile and desktop use with form validation.
 - **Survey Form**: Collect valuable user feedback with this responsive and accessible survey.
-- **Quiz**: Test your knowledge with this interactive and dynamically scored quiz app.
+- **Quiz**: This interactive and dynamically scored quiz app tests your knowledge.
 - **Nutrition Label**: A detailed and interactive label that provides nutritional information.
 
 ### Creative Designs
