@@ -24,7 +24,7 @@
 - **Rothko Painting**: A web art tribute to Rothko's abstract painting style using CSS.
 - **Cat Painting**: A playful, CSS-only rendition of a whimsical cat.
 - **City Skyline**: A nighttime skyline scene with animated elements to bring the city to life.
-- **Magazine**: A digital magazine layout with a focus on typography and responsive design.
+- **Magazine**: A digital magazine layout focusing on typography and responsive design.
 
 ### Functional Webpages
 
