@@ -4,6 +4,7 @@
 ## Learning resource
 
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
 <h1>Projects Overview</h1>
 
 <h2>Project Categories</h2>
