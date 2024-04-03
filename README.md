@@ -17,7 +17,6 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/
 - **Graphical and Creative Coding:** Ferris Wheel, Penguin
 
 <h3>Interactive Applications</h3>
-
 - **Registration Form**: A user-friendly form designed for mobile and desktop use with form validation.
 - **Survey Form**: Collect valuable user feedback with this responsive and accessible survey.
 - **Quiz**: This interactive and dynamically scored quiz app tests your knowledge.
