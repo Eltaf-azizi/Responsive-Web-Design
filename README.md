@@ -8,7 +8,6 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/
 <h1>Projects Overview</h1>
 
 <h2>Project Categories</h2>
-
 - **Interactive Applications:** Registration Form, Survey Form, Quiz, Nutrition Label
 - **Creative Designs:** Rothko Painting, Cat Painting, City Skyline, Magazine
 - **Functional Webpages:** Cat Photo App, Cafe Menu, Tribute Page, Portfolio, Landing Page
