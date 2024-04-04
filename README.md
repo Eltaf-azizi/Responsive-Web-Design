@@ -38,17 +38,14 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/
 - **Photo Gallery**: A responsive gallery to beautifully showcase photography.
 - 
 ### Business & Data Presentation
-
 - **Balance Sheet**: A clean financial balance sheet data presentation.
 - **Technical Documentation Page**: A detailed documentation webpage for a technical product or API.
 
 ### Graphical and Creative Coding
-
 - **Ferris Wheel**: A creative coding project that brings a Ferris wheel to life with animations.
 - **Penguin**: A stylized representation of a penguin created with CSS.
 
 # Technology Used
-
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>HTML 
 <br>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> CSS(including Flexbox, Grid, and CSS Animation)
