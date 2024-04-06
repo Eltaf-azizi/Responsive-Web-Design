@@ -2,7 +2,6 @@
 <p>This repository is a collection of small, responsive web design projects showcasing various aspects of front-end development. Each project is standalone and demonstrates different techniques and concepts in HTML and CSS. </p>
 
 ## Learning resource
-
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 <h1>Projects Overview</h1>
