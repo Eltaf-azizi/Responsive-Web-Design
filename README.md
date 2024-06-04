@@ -25,7 +25,7 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/
 - **Magazine**: A digital magazine layout focusing on typography and responsive design.
 
 ### Functional Webpages
-- **Cat Photo App**: A photo gallery featuring a collection of cat images, responsive and easy to navigate.
+- **Cat Photo App**: A photo gallery featuring a collection of cat images that is responsive and easy to navigate.
 - **Cafe Menu**: A dynamic menu for a virtual cafe, adaptable to different screen sizes.
 - **Tribute Page**: A page dedicated to an influential figure with a well-structured layout.
 - **Portfolio**: A professional portfolio showcasing web development projects.
